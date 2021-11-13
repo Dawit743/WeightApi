@@ -8,4 +8,4 @@ services:
     volumes:
       - .:/weightprediction
     ports:
-      - "8000:8000"
+      - "5001:8000"
